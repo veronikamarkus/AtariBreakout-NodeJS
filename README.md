@@ -23,7 +23,7 @@ Before running the project, make sure you have:
 
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/your-username/AtariBreakout-NodeJS.git
+git clone https://github.com/veronikamarkus/AtariBreakout-NodeJS.git
 cd AtariBreakout-NodeJS
 ```
 
