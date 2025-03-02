@@ -1,8 +1,8 @@
-# 🎮 Atari Breakout (Node.js + TypeScript)
+# Atari Breakout (Node.js + TypeScript)
 
 **Atari Breakout** remake built with **Node.js, TypeScript, and Vite**. This project recreates the classic arcade experience, allowing players to break bricks using a bouncing ball and paddle.
 
-## 🚀 Features
+## Features
 
 - **Classic Breakout Gameplay** – Bounce the ball, break the bricks, and score points.  
 - **Choose Complexity Level** – Select the initial ball speed to match your skill level.  
@@ -12,7 +12,7 @@
 
 ---
 
-### Prerequisites
+## Prerequisites
 Before running the project, make sure you have:
 
 - **[Node.js](https://nodejs.org/)** installed (latest LTS version recommended).
@@ -33,9 +33,11 @@ npm install
 ```
 
 ### Step 3: Open project in VS Code
+```sh
 # Open VS Code
 # Click File > Open Folder and select the project folder
 # Open the terminal in VS Code (View > Terminal)
+```
 
 ### Step 4: Start the Development Server
 ```sh
@@ -43,5 +45,7 @@ npm run dev
 ```
 
 ### Step 5: Open the Game in Your Browser
+```sh
 # Copy and paste the local server URL into your browser
 # Enjoy playing Atari Breakout
+```
